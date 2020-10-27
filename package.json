@@ -14,7 +14,7 @@
     "react-native",
     "pouchdb"
   ],
-  "author": "Takuya Matsuyama <hi@craftz.dog>",
+  "author": "Manbir Singh <manbir.singh@v.curefit.com>",
   "license": "Apache-2.0",
   "peerDependencies": {
     "react-native": ">= 0.60.0"
