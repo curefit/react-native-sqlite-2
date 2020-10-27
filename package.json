@@ -1,5 +1,5 @@
 {
-  "name": "@cureefit/react-native-sqlite-2",
+  "name": "@curefit/react-native-sqlite-2",
   "version": "3.1.2",
   "description": "SQLite Storage for React Native",
   "main": "index.js",
