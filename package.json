@@ -1,5 +1,5 @@
 {
-  "name": "react-native-sqlite-2-curefit",
+  "name": "@cureefit/react-native-sqlite-2",
   "version": "3.1.2",
   "description": "SQLite Storage for React Native",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "react-native",
     "pouchdb"
   ],
-  "author": "Manbir Singh <manbir.singh@v.curefit.com>",
+  "author": "Takuya Matsuyama <hi@craftz.dog>",
   "license": "Apache-2.0",
   "peerDependencies": {
     "react-native": ">= 0.60.0"
